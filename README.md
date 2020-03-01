@@ -2,7 +2,7 @@
 A simple program for presentation of meteorological data collected by Automated Surface Observing System (ASOS).
 
 ## Getting Started
-User is allowed to select an input file via menu bar action. Demanded date and time may be selected with the calendar and dial widget.
+The user is allowed to select an input file via a menu bar action. Demanded date and time may be selected with the calendar and dial widget.
 
 ![ASOS_weather_station](https://user-images.githubusercontent.com/45227603/75632504-f051cb80-5bfc-11ea-9896-79f9be164d95.PNG)
 
@@ -12,7 +12,7 @@ User is allowed to select an input file via menu bar action. Demanded date and t
 
 ## Authors
 
-* **Karol Robak** - Implementation of project
+* **Karol Robak** - Implementation of this project
 
 ## License
 
